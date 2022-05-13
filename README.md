@@ -1,27 +1,38 @@
 ### តើអ្វីទៅជា Full Stack?
 
 #### Full Stack Developer
-<p>Full Stack Developer គឺជាមនុស្សម្នាក់ដែលគាត់ចេះធ្វើទាំង Front End និង Back end ហើយគាត់ក៏ត្រូវមានចំណេះដឹងផ្នែកមួយចំនួននៅខាក្រោមដែល៖</p>
+<p>Full Stack Developer គឺជាមនុស្សម្នាក់ដែលគាត់ចេះធ្វើទាំង Front End និង Back end ហើយគាត់ក៏ត្រូវមានចំណេះដឹងផ្នែកមួយចំនួននៅខាងក្រោមនេះដែល៖</p>
 <ul>
   <li>
-    <p></p>
+    <p>ត្រូវមានចំណេះដឹងខាងផ្នែក Database ដែលផ្នែកនិងយើងត្រូវចេះភាសារមួយចំនួនដូចជា SQL, MongoDB...</p>
   </li>
   <li>
-    <p></p>
+    <p>ត្រូវមានចំណេះដឹងខាងផ្នែក Server ដែលផ្នែកនិងយើងត្រូវចេះភាសារមួយចំនួនដូចជា PHP, Python, Java...</p>
   </li>
   <li>
-    <p></p>
+    <p>ត្រូវមានចំណេះដឹងខាងផ្នែក Browser ដែលផ្នែកនិងយើងត្រូវចេះភាសារមួយចំនួនដូចជា JavaScript, Vue, React...</p>
   </li>
 </ul>
 
-#### Front End Developer
+#### ជំនាញដែលអ្នកត្រូវការដើម្បីក្លាយខ្លួនទៅជា Full Stact Developer
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>jQuery</li>
+</ul>
+
+> ចំណាំ៖ សម្រាប់ភាសាខាងលើជាភាសាគោលសម្រាប់ជំនាញ Front End ដាច់ខាតត្រូវតែចេះ។
+
+#### CSS Frameworks, Libraries, and Preprocessors
+<ul>
   <li>Bootstrap</li>
   <li>Tailwind CSS</li>
+  <li>Bulma</li>
+</ul>
+
+#### JavaScript libraries and frameworks
+<ul>
+  <li>jQuery</li>
   <li>React</li>
   <li>Vue</li>
   <li>Angular</li>
@@ -29,7 +40,15 @@
   <li>GraphQL</li>
 </ul>
 
-#### Back End Developer
+#### Databases
+<ul>
+  <li>PostgreSQL</li>
+  <li>SQL Server</li>
+  <li>MongoDB</li>
+  <li>SQL</li>
+</ul>
+
+#### Back End languages
 <ul>
   <li>PHP</li>
   <li>ASP</li>
@@ -37,11 +56,7 @@
   <li>Python</li>
   <li>Ruby</li>
   <li>Node.js</li>
-  <li>Express.js</li>
   <li>REST</li>
-  <li>MongoDB</li>
-  <li>SQL</li>
-  <li>Firebase</li>
-  <li>C++</li>
-  <li>C#</li>
 </ul>
+
+
