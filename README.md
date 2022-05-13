@@ -1,7 +1,7 @@
 ### តើអ្វីទៅជា Full Stack?
 
 #### Full Stack Developer
-<p>Full Stack Developer គឺជាមនុស្សម្នាក់ដែលគាត់ចេះធ្វើទាំង Front End និង Back end ហើយគាត់ក៏ត្រូវមានចំណេះដឹងផ្នែកមួយចំនួននៅខាងក្រោមនេះដែល៖</p>
+<p>Full Stack Developer គឺជាមនុស្សម្នាក់ដែលគាត់ចេះធ្វើទាំង Front End (Client) និង Back End (Server) ហើយគាត់ក៏ត្រូវមានចំណេះដឹងផ្នែកមួយចំនួននៅខាងក្រោមនេះដែល៖</p>
 <ul>
   <li>
     <p>ត្រូវមានចំណេះដឹងខាងផ្នែក Database ដែលផ្នែកនិងយើងត្រូវចេះភាសារមួយចំនួនដូចជា SQL, MongoDB...</p>
@@ -25,10 +25,18 @@
 
 #### CSS Frameworks, Libraries, and Preprocessors
 <ul>
-  <li>Bootstrap</li>
-  <li>Tailwind CSS</li>
-  <li>Bulma</li>
+  <li>
+    <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>
+  </li>
+  <li>
+    <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a>
+  </li>
+  <li>
+    <a herf="https://bulma.io/" target="_blank">Bulma</a>
+  </li>
 </ul>
+
+> ចំណាំ៖ សម្រាប់ CSS Frameworks, Libraries និង Preprocessors មិនចាំបាច់រៀនទាំងអស់នោះទេវាគ្រាន់តែជា Option មួយចំនួនដែលខ្ញុំបង្ហាញអ្នកទាំងអស់់គ្នាតែប៉ុណ្ណោះ។
 
 #### JavaScript libraries and frameworks
 <ul>
